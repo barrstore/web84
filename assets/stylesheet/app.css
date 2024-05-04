@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Vampiro+One&display=swap");
-
+*,*:before,*:after{-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-tap-highlight-color:transparent}
 body {
   background: linear-gradient(#9a08dd 0%, #dd4c4f 40%, #7420d3 100%);
   font-family: "Poppins", sans-serif;
