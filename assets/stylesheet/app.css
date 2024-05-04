@@ -19,6 +19,15 @@ body {
 .nav a {
   color: white;
 }
+.link
+position: relative;
+    margin-left: 25px;
+    padding: 35px 0;
+    font-size: 15px;
+    color: var(--light) !important;
+    text-transform: uppercase
+    outline: none;
+}
 .nav a:hover {
   color: rgb(192, 191, 191);
 }
