@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Vampiro+One&display=swap");
+*,*:before,*:after{-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-tap-highlight-color:transparent}
 
 body {
   background: linear-gradient(#DD9A90 0%, #DDAE6B 40%, #991436 100%);
@@ -23,7 +24,7 @@ body {
 }
 .button {
     background-color:#DDAE6B;
-    color: #fff;
+    color: #DD9A90;
     border-radius:10px; 
     padding:15px;
     min-height:30px; 
@@ -294,3 +295,11 @@ body {
   align-items: center;
   margin-top: -90px;
 }
+#certificate .btn-primary {
+  color: #FFFFFF;
+  background-color: #991436;
+  border-radius: 9px;
+  padding:5px;
+  min-height:30px; 
+  min-width: 75px;
+  text-decoration: none;   
