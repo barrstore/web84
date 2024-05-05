@@ -7,8 +7,6 @@ body {
 
 .bg-light {
   background: #00000000 !important;
-  /* backdrop-filter: blur(3px);
-  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.589); */
   transition: all 0.5s;
 }
 .bg-light.scrolled {
@@ -21,16 +19,27 @@ body {
 }
 .gallery a {
     color: #FFFFFF;
-    text-decoration: none;
+    text-decoration: none;   
 }
+.button {
+    position: absolute;
+    top:50%;
+    background-color:#0a0a23;
+    color: #fff;
+    border:none; 
+    border-radius:10px; 
+    padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+  }
 .nav a:hover {
   color: rgb(192, 191, 191);
 }
 .nav.scrolled a {
-  color: rgb(155, 49, 255);
+  color: rgb(221, 174, 107);
 }
 .nav.scrolled a:hover {
-  color: rgb(208, 157, 255);
+  color: rgb(221, 174, 15);
 }
 .buttonToggle {
   display: none;
