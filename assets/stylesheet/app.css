@@ -43,7 +43,7 @@ body {
   display: none;
 }
 .initial {
-  font-family: "Vampiro One", cursive;
+  font-family: "Jacquard 12", system-ui;
   font-size: 30px;
   margin: -10px;
 }
