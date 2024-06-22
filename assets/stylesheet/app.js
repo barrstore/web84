@@ -1,4 +1,3 @@
-import { Analytics } from "@vercel/analytics/react"
 document.addEventListener("scroll", () => {
   const navbar = document.querySelector(".nav");
 
