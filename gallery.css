@@ -38,6 +38,7 @@
             width: 100%;
             height: 12rem;
             object-fit: cover;
+            a:focus, a:active, a:visited {border: none; outline: none; text-decoration: none; background-color: transparent; background: transparent; }
         }
         .card-content {
             padding: 1rem;
