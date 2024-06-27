@@ -51,9 +51,6 @@ body {
    4px 4px 5px 0px #0001;
   transition: all 0.3s ease;
 }
-.btn-16:hover {
-  color: #000;
-}
 .btn-16:hover:after {
   left: auto;
   right: 0;
