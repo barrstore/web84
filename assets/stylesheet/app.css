@@ -3,7 +3,7 @@
 *,*:before,*:after{-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-tap-highlight-color:transparent}
 
 body {
-  background: linear-gradient(#ff80ed 0%, #8334ff 40%, #fffa1d 100%);
+  background: linear-gradient(#ff80ed 0%, #8334ff 40%, #F0249D 100%);
   font-family: "Poppins", sans-serif;
 }
 
