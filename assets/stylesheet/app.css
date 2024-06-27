@@ -21,7 +21,7 @@ body {
 }
 .gallery a {
     color: #FFFFFF;
-   
+    text-decoration: none;   
 }
 .button {
     background-color:#26355D;
