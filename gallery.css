@@ -10,7 +10,7 @@
         .gallery-title {
             font-size: 1.875rem;
             font-weight: 700;
-            color: #DDAE6B;
+            color: #26355D;
             margin-bottom: 2rem;
         }
         .grid-container {
@@ -29,7 +29,7 @@
             }
         }
         .card {
-            background-color: #DDAE6B;
+            background-color: #26355D;
             border-radius: 0.5rem;
             overflow: hidden;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
