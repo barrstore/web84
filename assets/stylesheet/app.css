@@ -4,8 +4,7 @@
 
 body {
   background: linear-gradient(#26355D 0%, #AF47D2 40%, #667BC6 100%);
-  font-family: "Poppins", sans-serif
-  text-decoration: none;   
+  font-family: "Poppins", sans-serif;
 }
 
 .bg-light {
