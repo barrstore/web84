@@ -32,7 +32,7 @@ body {
     text-decoration: none;   
 }
 .button {
-    background-color:#26355D;
+    background-color:#26535d;
     color: #ffffff;
     border-radius:10px; 
     padding:15px;
@@ -43,10 +43,10 @@ body {
   color: rgb(192, 191, 191);
 }
 .nav.scrolled a {
-  color: rgb(38, 53,93);
+  color: rgb(38,83,93);
 }
 .nav.scrolled a:hover {
-  color: rgb(38, 53, 93);
+  color: rgb(38,83,93);
 }
 .buttonToggle {
   display: none;
