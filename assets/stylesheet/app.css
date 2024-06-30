@@ -4,7 +4,7 @@
 *,*:before,*:after{-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-tap-highlight-color:transparent}
 
 body {
-  background: linear-gradient(#26355D 0%, #AF47D2 40%, #667BC6 100%);
+  background: linear-gradient(#26535d 0%, #4791d2 40%, #687dc6 100%);
   font-family: "Montserrat", Sans-serif;
 }
 
