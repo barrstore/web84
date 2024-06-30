@@ -474,15 +474,15 @@ table {
 }
 
 .murid thead th:hover span.icon-arrow{
-    border: 1.4px solid #6c00bd;
+    border: 1.4px solid #26535d;
 }
 
 .murid thead th:hover {
-    color: #6c00bd;
+    color: #26535d;
 }
 
 .murid thead th.active span.icon-arrow{
-    background-color: #6c00bd;
+    background-color: #26535d;
     color: #fff;
 }
 
