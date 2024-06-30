@@ -39,7 +39,7 @@ body {
     border-radius:10px; 
     padding:15px;
     min-height:30px; 
-    min-width: 120px;
+    min-width: 150px;
   }
 .nav a:hover {
   color: rgb(192, 191, 191);
