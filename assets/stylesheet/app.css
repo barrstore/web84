@@ -7,47 +7,6 @@ body {
   background: linear-gradient(#26535d 0%, #4791d2 40%, #687dc6 100%);
   font-family: "Montserrat", Sans-serif;
 }
-.notif *{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-    text-transform: capitalize;
-    font-family: 'Montserrat", Sans-serif;
-}
-
-.notif{
-    width: 70%;
-    height: 50px;
-    padding: 2rem;
-    background-color: #fff;
-    border-radius: 10px;
-    display: none;
-}
-.notif img{
-    margin-left: 26rem;
-    cursor: pointer;
-    height: 3.5vh;
-}
-.notif h1{
-    margin-bottom: 1rem;
-    text-align: center;
-}
-.notif p{
-    font-size: 0.9rem;
-    font-weight: 500;
-    text-align: justify;
-    color: #636e72;
-}
-.notif button{
-    display: block;
-    margin: 0.5rem auto;
-    padding: 0.5rem;
-    width: 120px;
-    background-color: #c4e538;
-    border: 0px;
-    outline: none;
-    color: #fff;
-}
 .margin {
   margin-top: 10px;
 }
