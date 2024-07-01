@@ -13,7 +13,7 @@ const toastLink = document.querySelector(".toast-container a");
 if (!localStorage.getItem("displayToast")) {
   setTimeout(() => {
     toastContainer.classList.add("active");
-  }, 1000);
+  }, 100);
 }
 
 const stopDisplayingToast = () => {
