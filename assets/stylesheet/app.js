@@ -16,6 +16,6 @@ window.addEventListener("load" , function(){
         function open(event){
             document.querySelector(".notif").style.display = "block";
         },
-        2000
+        200
     )
 });
