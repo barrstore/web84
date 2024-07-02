@@ -540,7 +540,8 @@ table {
     padding: 0 80px;
     margin: 50px 0 80px;
     display: flex;
-    justify-content: center;
+    justify-content: space-araound;
+    flex-direction: column;
     gap: 30px;
 }
 
